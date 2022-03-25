@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- Markdown approach -->
-<img src="https://github-readme-stats.vercel.app/api?username=RGPRafael&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=RGPRafael&show_icons=true&theme=dark"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=RGPRafael&layout=compact"/><!-- Markdown approach -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=RGPRafael&layout=compact&theme=dark"/>
+<!-- Markdown approach -->
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=RGPRafael&repo=godot&theme=dark"/>
 
 
