@@ -13,10 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
+<!-- Markdown approach -->
 <img src="https://github-readme-stats.vercel.app/api?username=RGPRafael&show_icons=true"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RGPRafael"/>
+<!-- Markdown approach -->
 
--->
 
