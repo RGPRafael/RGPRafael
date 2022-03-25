@@ -20,6 +20,4 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RGPRafael&layout=compact&theme=dark"/>
 <!-- Markdown approach -->
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=RGPRafael&repo=godot&theme=dark"/>
-
 
