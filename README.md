@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 <!-- Markdown approach -->
 <img src="https://github-readme-stats.vercel.app/api?username=RGPRafael&show_icons=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=RGPRafael"/>
-<!-- Markdown approach -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=RGPRafael&layout=compact"/><!-- Markdown approach -->
 
 
