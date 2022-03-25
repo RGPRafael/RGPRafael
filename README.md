@@ -22,4 +22,5 @@ Here are some ideas to get you started:
 
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=RGPRafael&repo=godot&theme=dark"/>](https://github.com/RGPRafael/godot)
 
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=RGPRafael&repo=HackerRank_Java&theme=dark"/>](https://github.com/RGPRafael/HackerRank_Java)
 
