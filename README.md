@@ -24,3 +24,5 @@ Here are some ideas to get you started:
 
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=RGPRafael&repo=HackerRank_Java&theme=dark"/>](https://github.com/RGPRafael/HackerRank_Java)
 
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=RGPRafael&repo=Understanding-and-Visualizing-Data-with-Python&theme=dark"/>](https://github.com/RGPRafael/Understanding-and-Visualizing-Data-with-Python )
+
